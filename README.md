@@ -10,8 +10,8 @@
 <span><img src="https://img.shields.io/badge/NEXT.JS-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="25"/></span>
 
-<span><img src="https://img.shields.io/badge/NODE.JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/EXPRESS.JS-%23000000?style=for-the-badge&logo=express&logoColor=white" height="25"/></span>
+<span><img src="https://img.shields.io/badge/NODE.JS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/></span>
 <!--
 **ShawnECMO/ShawnECMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
