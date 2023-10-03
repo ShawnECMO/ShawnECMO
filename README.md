@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Technologies & Tools
+### Technologies & Tools
 
 <span><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/></span>
